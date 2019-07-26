@@ -1,0 +1,7 @@
+C:\Users\Gurkinder Singh\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\Gurkinder Singh\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Gurkinder Singh\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Gurkinder Singh\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Gurkinder Singh\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Gurkinder Singh\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Gurkinder Singh\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
